@@ -3,3 +3,4 @@ Druga 2.
 Trzecia.
 Duża czwarta.
 linia 5
+linia 6
